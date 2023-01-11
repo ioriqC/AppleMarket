@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/AppleMarket/static/css/main.51222ce4.css",
-    "main.js": "/AppleMarket/static/js/main.9e9edc53.js",
+    "main.js": "/AppleMarket/static/js/main.661ee598.js",
     "static/js/787.dcc73137.chunk.js": "/AppleMarket/static/js/787.dcc73137.chunk.js",
     "static/media/fontawesome-webfont.svg?v=4.7.0": "/AppleMarket/static/media/fontawesome-webfont.c1e38fd9e0e74ba58f7a.svg",
     "static/media/fontawesome-webfont.eot": "/AppleMarket/static/media/fontawesome-webfont.8b43027f47b20503057d.eot",
@@ -10,11 +10,11 @@
     "static/media/fontawesome-webfont.woff2?v=4.7.0": "/AppleMarket/static/media/fontawesome-webfont.20fd1704ea223900efa9.woff2",
     "index.html": "/AppleMarket/index.html",
     "main.51222ce4.css.map": "/AppleMarket/static/css/main.51222ce4.css.map",
-    "main.9e9edc53.js.map": "/AppleMarket/static/js/main.9e9edc53.js.map",
+    "main.661ee598.js.map": "/AppleMarket/static/js/main.661ee598.js.map",
     "787.dcc73137.chunk.js.map": "/AppleMarket/static/js/787.dcc73137.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.51222ce4.css",
-    "static/js/main.9e9edc53.js"
+    "static/js/main.661ee598.js"
   ]
 }
